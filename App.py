@@ -1,6 +1,4 @@
-import tkinter
-from tkinter import ttk
-from tkinter import messagebox
+
 
 def enter_data():
     accepted = accept_var.get()
